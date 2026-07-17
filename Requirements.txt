@@ -84,7 +84,7 @@ How it was used in this project:
 - Analysing relationships between customer variables
 
 
-8. joblib
+8. joblib==1.4.2
 
 Purpose:
 Used for saving and loading machine learning objects.
